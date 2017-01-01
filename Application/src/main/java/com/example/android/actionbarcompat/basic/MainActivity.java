@@ -38,7 +38,8 @@ public class MainActivity extends ActionBarActivity {
 
 
         // 변경함
-        
+        // 변경된 내용을 되돌기기
+
     }
 
     // BEGIN_INCLUDE(create_menu)
