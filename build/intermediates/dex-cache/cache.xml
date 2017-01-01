@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_f6a521a3af8419d264ae27926734815d06b26f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_feca1c62f5544b77341e8bf65e12bd934d6d710a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f10251cc434f7a418b69166515c2e522e504c95f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.1_1e90d9e1f9fbb717e61b0af064f9b434051f7d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_641eb844a267134949695e2ca88b74be59b945cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7988e83f9d565d8ea18de7f55a6834edba7b8e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0a3755e58b980cb3e990ecaeb01e2933311a9a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89df7ba3eef9a8fff54010ccc665c9d099351657">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\instant-run_ea330eda9dea3c25818e9541fa03f59b86d0d9f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8b74bedbe4389de572ca5a1fb24873b7583d995c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_c7403520d4167d90c8ac48b455e09d518a155c03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0edd50723cdf41d4b61a55304cb0a668b20d245a">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a1dfd903914314c9b388b5b4a426c363d99a9079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_ddb10b19d716d6f2a76ed70f3ad1f57634575f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_6bfc914ec5fbb2181b7d7f5be7d1b7c1240500fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_b9c4e3f72b6ec03a62cbe8a6424f3e16b36ba373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_41702c6862f2d6d73b25a3193b8361ea3cda5be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_459419fb8065ea4a770c89bec0c5128107a7b415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_e4e5a680e44fa545a3f2ab5d64e6dfc99a771951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\devand\googlesamples\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_8e6abf95cebd32f3da08f2197d69f61669bca0e2.jar" />
+    </item>
+
+</items>
